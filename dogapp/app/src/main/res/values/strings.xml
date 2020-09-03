@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Coursework</string>
+    <string name="identifyBreed">Identify the Breed</string>
+    <string name="identifyDog">Identify the Dog</string>
+    <string name="searchBreeds">Search Dog Breeds</string>
+    <string name="dogs">DOGS</string>
+    <string name="submit">SUBMIT</string>
+    <string name="goBack">GO BACK</string>
+    <string name="next">NEXT</string>
+    <string name="mode">Hard Mode</string>
+    <string name="rightAnswer">Correct</string>
+    <string name="wrongAnswer">Wrong</string>
+    <string name="stop">STOP</string>
+    <string name="info">Insert dog breed</string>
+
+    <string-array name="dogBreeds">
+        <item>Boston Bull</item>
+        <item>Beagle</item>
+        <item>Chihuahua</item>
+        <item>Doberman</item>
+        <item>Labrador Retriever</item>
+        <item>Maltese</item>
+        <item>Pomeranian</item>
+        <item>Pug</item>
+        <item>Siberian Husky</item>
+        <item>Toy Terrier</item>
+    </string-array>
+</resources>
