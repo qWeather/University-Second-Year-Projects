@@ -1,0 +1,8 @@
+These are the available vehicles in stock: 
+
+Plate Number: gfgd
+Make: bmw
+Colour: red
+
+
+There is one vehicle in stock.
