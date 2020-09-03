@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#B57F50</color>
+    <color name="colorPrimaryDark">#B4D2BA</color>
+    <color name="colorAccent">#4B543B</color>
+    <color name="buttonBg">#B57F50</color>
+    <color name="appBg">#DCE2AA</color>
+    <color name="spinnerBg">#B57F50</color>
+</resources>
